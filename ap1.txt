@@ -12,6 +12,6 @@ Trabalho de branches
 
 
 
-alteração na linha 15
+alteração na linha 15.
 
-alteração na linha 17
+alteração na linha 17.
