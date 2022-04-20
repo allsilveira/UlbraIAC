@@ -1,8 +1,22 @@
+<<<<<<< HEAD
 Trabalho de branches
+=======
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dictum maximus justo, quis ultricies velit convallis nec. Suspendisse volutpat lorem mi, sed varius lacus mattis vel. Nunc egestas finibus sapien sed fermentum. Sed augue nulla, dignissim non velit ac, facilisis varius metus. Etiam aliquet sem eget ex rhoncus, id maximus sapien iaculis. In in efficitur ante. Pellentesque vitae lectus commodo, ullamcorper risus nec, cursus sem. Praesent ac posuere nunc. In id turpis libero. Integer vel ornare lorem, at rhoncus turpis.
+
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus sed nisi enim. Fusce iaculis tellus in pellentesque lobortis. Mauris lacus lacus, commodo nec aliquet ut, molestie vel ante. Curabitur a massa turpis. Suspendisse nulla lacus, lacinia nec ipsum id, scelerisque lacinia nibh. Quisque velit odio, tempus ac libero et, sagittis dapibus ex. Nullam facilisis iaculis ante ut gravida. Maecenas imperdiet nibh non purus rhoncus, ut interdum ante tempor. Mauris nec blandit libero. Aenean lacinia nibh sed mattis egestas. Aenean ullamcorper ex quis libero imperdiet, vitae tempus leo venenatis. Nulla nec dapibus lorem.
+
+Proin fringilla est vel ante ultricies finibus. Etiam posuere faucibus blandit. In consequat urna mi, quis ultricies lacus sodales id. Duis eget magna nulla. Sed quis pulvinar velit. Nunc vestibulum massa tellus, at dignissim tellus ultricies sit amet. Ut dignissim risus eget nisl consequat, id vestibulum sapien pretium. Sed felis nisl, ornare non efficitur vitae, consectetur at metus. Aenean quis magna ac ante lacinia iaculis varius quis risus.
+
+Aliquam id elit id nisi scelerisque varius. Nam finibus pulvinar blandit. Phasellus eleifend sapien quis placerat maximus. Mauris ornare ipsum at sem posuere fringilla. Duis ac purus enim. Curabitur pellentesque justo sit amet nisi cursus pharetra. In molestie libero varius nunc rhoncus consectetur. Nam semper enim ut dolor dignissim, ac ullamcorper nisi consectetur. Nulla aliquam convallis felis sit amet elementum. Sed finibus magna ante, et mattis felis imperdiet in. In ultricies rhoncus nibh ac euismod.
+
+Proin elementum a elit et posuere. Proin placerat sodales consequat. Nulla et mattis justo, vel mattis felis. Donec a accumsan felis, vel ullamcorper turpis. Integer luctus, odio ut viverra faucibus, lacus sapien porta neque, in malesuada enim lectus eu odio. Nulla quis posuere velit, eu egestas lorem. Praesent laoreet orci sit amet sagittis aliquam. In vehicula molestie odio, at luctus sapien auctor sed. Duis sollicitudin placerat orci at accumsan. Donec faucibus scelerisque enim, non tincidunt felis blandit vitae. Nullam elit nibh, dapibus ut ultricies vitae, congue vitae est. Pellentesque id massa consectetur, tristique est eu, auctor dui.
+>>>>>>> feature_2
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -15,3 +29,8 @@ Trabalho de branches
 alteração na linha 15.
 
 alteração na linha 17.
+=======
+alterações da atividade 14, pela feature_2
+
+alterações da atividade 14, pela feature_2
+>>>>>>> feature_2
